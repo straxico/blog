@@ -9,7 +9,7 @@ import Container from '@material-ui/core/Container';
 const IndexPage = () => {
   return (
     <Container maxWidth="lg">
-<Heading>tyto</Heading><Button variant="contained" color="primary">hi</Button>      </Container>
+<Heading>tyto</Heading> comming soon</Container>
 
 
   )
