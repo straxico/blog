@@ -1,3 +1,10 @@
 {
-    "deepscan.enable": true
+    "deepscan.enable": true,
+    "files.exclude": {
+        "**/.git": true,
+        ".cache": true,
+        "node_modules": true,
+        ".vscode": false,
+      },
+    
 }
